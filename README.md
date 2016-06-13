@@ -10,15 +10,15 @@ A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.c
 ### build system files explained
 
 * gradle* (gradle wrapper distribution files)   
-    * gradlew
+    * 1. gradlew
         * linux bash executable
-    * gradlew.bat
+    * 2. gradlew.bat
         * windows batch executable
-    * gradle/wrapper/gradle-wrapper.jar (50 KB)
+    * 3. gradle/wrapper/gradle-wrapper.jar (50 KB)
         * wrapper binary distribution
-    * gradle/wrapper/gradle-wrapper.properties
+    * 4. gradle/wrapper/gradle-wrapper.properties
         * wrapper configuration
-* build.gradle
+* 5. build.gradle
    * the build system config tell where to get started
    * same for all projects        
 
