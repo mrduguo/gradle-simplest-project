@@ -9,9 +9,6 @@ A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.c
 ```
 ### build system files explained
 
-* build.gradle
-   * the build system config tell where to get started
-   * same for all projects
 * gradle* (gradle wrapper distribution files)   
     * gradlew
         * linux bash executable
@@ -21,7 +18,9 @@ A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.c
         * wrapper binary distribution
     * gradle/wrapper/gradle-wrapper.properties
         * wrapper configuration
-        
+* build.gradle
+   * the build system config tell where to get started
+   * same for all projects        
 
 ### sample tasks comes with the build system
 
