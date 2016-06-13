@@ -18,9 +18,10 @@ A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.c
         * wrapper binary distribution
     * 4. gradle/wrapper/gradle-wrapper.properties
         * wrapper configuration
-* 5. build.gradle
-   * the build system config tell where to get started
-   * same for all projects        
+* config
+    * 5. build.gradle
+        * the build system config tell where to get started
+        * same for all projects        
 
 ### sample tasks comes with the build system
 
