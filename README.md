@@ -1,13 +1,13 @@
-## gradle simplest project 
+## Gradle Simplest Project 
 A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.com/mrduguo/gradle-buildscript) project. You may simply clone the project as a start for any new project. 
 
 
-### sample build command
+### Sample Build Command
 
 ```
 ./gradlew
 ```
-### build system files explained
+### Build System Files Explained
 
 * gradle* (gradle wrapper distribution files)   
     * 1. gradlew
@@ -23,7 +23,7 @@ A simplest gradle project based on [mrduguo/gradle-buildscript](https://github.c
         * the build system config tell where to get started
         * same for all projects        
 
-### sample tasks comes with the build system
+### Sample Tasks Comes With The Build System
 
 Show the build environment stats include system and environment variables:
 ```
